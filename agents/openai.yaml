@@ -1,0 +1,4 @@
+interface:
+  display_name: "做题本制作"
+  short_description: "从 PDF/OCR 自动生成可打印做题本"
+  default_prompt: "Use $zuo-ti-ben-zhi-zuo to 从 PDF、OCR 或 LaTeX 中提取习题，审查题数与 OCR 风险，并生成紧凑版和一页一题版 A4 做题本。"

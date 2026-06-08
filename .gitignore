@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+.tmp/
+dist/
+
+# Generated workbook outputs
+exercise_book_output/
+mineru_ocr/
+promo_images/
+cover_assets/
+page_checks/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.xdv
+*_compact.tex
+*_compact_body.tex
+*_one_problem_per_page.tex
+*_one_problem_per_page_body.tex
+[[]A4*[]]*.pdf
+宣传图_*.png
+
+# Large/source artifacts should stay out of the open-source skill repo.
+*.pdf
+*.doc
+*.docx
+*.zip
+*.rar
+*.7z
